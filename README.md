@@ -23,6 +23,9 @@ After cloning the repo and updating the save path according to your needs:
 
 Screenshots
 ===========
+ <div align="center">
+    <img src="Screenshots/Script_Screenshot.png" width="100%" alt="Script Screenshot">
+</div>
 
 Dependencies
 ============
