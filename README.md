@@ -2,7 +2,7 @@ YouTube Downloader
 =================
 A python script to download videos from *youtube* and convert them to *mp3*.
 
-How the Script Works?
+How the Script Works
 ====================
 This script utilizes the *pytube* library in order to find the desired video, by providing the URL and the *moviepy* library to convert the downloaded video to *mp3*, using the *libmp3lame* codec.
 To save disk space, the downloaded video is deleted, after creating the corresponding *mp3* file.
